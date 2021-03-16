@@ -1,16 +1,17 @@
 # runrun read.md
 
-mouse double leftclick run.exe to run.
-run in a folder require runico.ico and lang.txt file inside.
+mouse double leftclick run.exe to run.<br>
+Run run.exe in a folder and require runico.ico and lang.txt file inside.<br>
 
 
 
-# lang.txt setting 
-#detect the firstline text
-#1=中文,2=English,3=Español
-#lang.txt file example:language Español
-3
+# lang.txt setting
 
-1=中文
-2=English
+detect the firstline text<br>
+1=中文,2=English,3=Español<br>
+lang.txt file example:language Español<br>
+
+3<br>
+1=中文<br>
+2=English<br>
 3=Español

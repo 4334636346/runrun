@@ -10,6 +10,7 @@ Run run.exe in a folder and require runico.ico and lang.txt file inside.<br>
 detect the firstline text<br>
 1=中文,2=English,3=Español<br>
 lang.txt file example:language Español<br>
+
 ---------------------------<br>
 3<br>
 1=中文<br>
